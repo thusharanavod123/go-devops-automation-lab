@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"system-resource-monitor/internal/metrics"
+	"example.com/system-resource-monitor/internal/metrics"
 )
 
 func main() {
